@@ -1,0 +1,21 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/poirtyc/fullstack-javascript-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/poirtyc/fullstack-javascript-project-46/actions)",
+  "author": "poirtyc",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "lodash": "^4.17.21",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
